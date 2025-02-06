@@ -6,7 +6,7 @@ import CardScreen from "./CardScreen";
 //import HomeScreen from "./src/screens/HomeScreen";
 
 //สวัสดี
-
+//2
 
 const Tab = createBottomTabNavigator();
 
